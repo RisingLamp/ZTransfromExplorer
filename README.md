@@ -69,7 +69,7 @@ Z-Transform Explorer serves as an educational and analytical tool for understand
 ---
 *Developed as part of the Semester 4 Engineering Mathematics 4 (EM4) project.*
 
-## PPT
+## PPT [z transfrom.pptx](https://github.com/user-attachments/files/19040606/z.transfrom.pptx)
 ![1](https://github.com/user-attachments/assets/50848c60-2196-4aac-87f0-746cccd075f4)
 ![2](https://github.com/user-attachments/assets/d1b828c2-d0bf-4e7e-ac24-dd49663c77ee)
 ![3](https://github.com/user-attachments/assets/f829dcff-7b18-4365-b8ab-5b4d1ae53153)
@@ -78,7 +78,7 @@ Z-Transform Explorer serves as an educational and analytical tool for understand
 ![6](https://github.com/user-attachments/assets/03820ce5-3296-4921-8e34-1b82e3f5476a)
 ![7](https://github.com/user-attachments/assets/3ccc8d91-0ba0-4237-91be-6daf7572561b)
 
-[z transfrom.pptx](https://github.com/user-attachments/files/19040606/z.transfrom.pptx)
+
 
 
 
